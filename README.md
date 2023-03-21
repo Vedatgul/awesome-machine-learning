@@ -1254,6 +1254,7 @@ be
 * [AutoViz](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 * [Numba](https://numba.pydata.org/) - Python JIT (just in time) compiler to LLVM aimed at scientific Python by the developers of Cython and NumPy.
 * [Mars](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
+* [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites.
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [igraph](https://igraph.org/python/) - binding to igraph library - General purpose graph library.
 * [Pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
