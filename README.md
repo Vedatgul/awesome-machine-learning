@@ -32,6 +32,7 @@ Further resources:
   - [APL](#apl)
       - [General-Purpose Machine Learning](#apl-general-purpose-machine-learning)
   - [C](#c)
+  
       - [General-Purpose Machine Learning](#c-general-purpose-machine-learning)
       - [Computer Vision](#c-computer-vision)
   - [C++](#cpp)
